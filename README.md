@@ -24,6 +24,8 @@ The 4 M2 screws are screwed into M2x4x3.5 inserts (see picture).
 
 If you need to add things to the box, you can do so via gadgets that will be inserted into the box.
 
+![Gadgets case](images/case.png)
+
 You can add a gadget with 2 buttons using 2 micro-switches Omron D2F-01F-T (see image below).
 
 ![Photo of switch gadget](images/gadget-switch.png)
