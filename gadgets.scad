@@ -92,7 +92,7 @@ module gadget_button(length, width, height, border_radius, debug=false) {
 
     // Create base
     base_thickness = 1.5;
-    base_width = 9;
+    base_width = 10.5;
     translate([width / 2 + base_width / 2, 0, height + border_radius / 2 + base_thickness / 2 - 0.01]) {
         cube(size=[base_width, length, base_thickness], center=true);
         translate([base_width / 2 - 0.5, 0, -1]) {
