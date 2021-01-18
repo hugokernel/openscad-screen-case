@@ -40,7 +40,7 @@ You will only need to print 2 pieces and depending if you want buttons choose th
 * [front.st](stl/front.stl)
 * Gadgets:
   * [gadget.stl](stl/gadget.stl) x4 if you do not want button
-  * [gadget.stl](stl/gadget.stl) x3 and [gadget-button.stl](stl/gadget-button.stl) if you want one button gadget
+  * [gadget.stl](stl/gadget.stl) x3 and [gadget-button.stl](stl/gadget-button.stl) + [button.stl](stl/button.stl) x2 if you want one button gadget
 
 ### Pieces
 
